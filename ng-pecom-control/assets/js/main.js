@@ -1,0 +1,1 @@
+// Aquí va el JS extraído desde tu archivo original
