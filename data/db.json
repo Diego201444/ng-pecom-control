@@ -1,0 +1,44 @@
+{
+  "tanques": [
+    {
+      "id": "E-1001",
+      "sensor": "SN-8039",
+      "zona": "Mendoza Norte",
+      "prod": "Antiincrustante A",
+      "lat": -33.45,
+      "lng": -68.30,
+      "litros": 340,
+      "cap": 400
+    },
+    {
+      "id": "E-1002",
+      "sensor": "SN-8040",
+      "zona": "Mendoza Sur",
+      "prod": "Demulsificante",
+      "lat": -34.70,
+      "lng": -67.90,
+      "litros": 180,
+      "cap": 400
+    },
+    {
+      "id": "E-1003",
+      "sensor": "SN-8041",
+      "zona": "Neuquén Este",
+      "prod": "Bactericida",
+      "lat": -38.95,
+      "lng": -68.06,
+      "litros": 90,
+      "cap": 400
+    },
+    {
+      "id": "E-1004",
+      "sensor": "SN-8042",
+      "zona": "Vaca Muerta",
+      "prod": "Inhibidor de Corrosión",
+      "lat": -38.50,
+      "lng": -69.10,
+      "litros": 380,
+      "cap": 400
+    }
+  ]
+}
